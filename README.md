@@ -1,3 +1,10 @@
+erd
+![Screenshot (1)](https://github.com/user-attachments/assets/cad84762-5f25-481b-b351-744215c92119)
+
+uml
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/85308387-e523-4e36-9bf9-8049112a1d88)
+
+
 # Konsep Dari Web Yang Saya Buat
 Website yang sedang Saya buat merupakan platform untuk imformasi klub bola
 # Fitur Yang Tersedia
